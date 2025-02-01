@@ -6,10 +6,10 @@ Analyze Network Traffic with TCPDump: Build a Logging Tool
 2 Deployed Linux distribution Ubuntu image on VM
 
 3 Installed Tcpdump on VM
- apt-get install tcpdump
+ \\apt-get install tcpdump
 
 4 Installed Wireshark on VM
- sudo apt install wireshark -y
+ \\sudo apt install wireshark -y
 
 5 Installed Microso Visual Studio Code on VM
- sudo snap install --classic code
+ \\sudo snap install --classic code
