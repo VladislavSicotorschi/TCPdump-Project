@@ -3,6 +3,7 @@ Analyze Network Traffic with TCPDump: Build a Logging Tool
 
 1. Created VM using Oracle VirtualBox
 
+
 2. Deployed Linux distribution Ubuntu image on VM
 
 3. Installed Tcpdump on VM: ###sudo apt-get install tcpdump
